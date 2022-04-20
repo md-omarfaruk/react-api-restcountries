@@ -1,0 +1,23 @@
+.countryStyle{
+    width: 280px;
+    height: 150px;
+    background-color: rgb(195, 204, 255);
+    float: left;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.about{
+    margin: 20px 130px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: rgb(255, 246, 170);
+    font-size: 15px;
+    border: 2px solid lawngreen;
+    cursor: pointer;
+}
+.about:hover{
+    background-color: lawngreen;
+}
